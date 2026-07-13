@@ -1,0 +1,1425 @@
+{
+  "id":1,
+  "food_at_risk":"spinach",
+  "food category":"fresh_vegetable",
+  "scenario":"A couple bought fresh spinach for a recipe but decided to eat out twice during the week. The unopened bag remained in the refrigerator until the leaves became slimy."
+}
+
+{
+  "id":2,
+  "food_at_risk":"plain yogurt",
+  "food category":"yoghturt",
+  "scenario":"A student purchased a large tub of yogurt because it was on sale. After switching to breakfast at work, the yogurt sat unopened until it passed its use-by date."
+}
+
+{
+  "id":3,
+  "food_at_risk":"canned beans",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A family bought a large can of beans for their weekly meals but only used half. They forgot about the remaining half until it expired."
+}
+
+{
+  "id":4,
+  "food_at_risk":"rice",
+  "food category":"pasta.rice etc",
+  "scenario":"An elderly person cooked rice in bulk for leftovers but did not finish before expiration dates on most cans of rice marked as best by date."
+}
+
+{
+  "id":5,
+  "food_at_risk":"ground beef",
+  "food category":"meat",
+  "scenario":"A single person bought ground beef during a sale but didn't cook it in time and had to discard the remaining meat after expiration dates expired."
+}
+
+{
+  "id":6,
+  "food_at_risk":"frozen peas",
+  "food category":"fresh_fruit",
+  "scenario":"A family made plans to cook with frozen vegetables but forgot about them until they started cooking dinner. The unthawed frozen peas were spoiled and discarded."
+}
+
+{
+  "id":7,
+  "food_at_risk":"sliced bread",
+  "food category":"bread",
+  "scenario":"Two roommates bought a loaf of bread on sale thinking it would last longer than expected, but one roommate ate more than the other could consume before it became stale."
+}
+
+{
+  "id":8,
+  "food_at_risk":"coconut milk",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut milk for smoothies and forgot about it in a hot place, leading to spoilage of the milk before use."
+}
+
+{
+  "id":9,
+  "food_at_risk":"tuna fish",
+  "food category":"meat",
+  "scenario":"A working mother bought canned tuna for lunch but scheduled an unexpected social event that day. The tuna had expired by the time she returned home from the event."
+}
+
+{
+  "id":10,
+  "food_at_risk":"dried apricots",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A retired person bought dried apricots for snacks but forgot about them until they were past their expiration date, leading to waste."
+}
+
+{
+  "id":11,
+  "food_at_risk":"pasta sauce",
+  "food category":"soup and curries",
+  "scenario":"A single parent decided on a pasta meal when making lunch. They cooked too much and had leftovers that expired before they could finish eating it."
+}
+
+{
+  "id":12,
+  "food_at_risk":"cucumber",
+  "food category":"fresh_vegetable",
+  "scenario":"Two roommates bought cucumbers for their daily lunches but only consumed one cucumber each, discarding the other due to expiration dates on the remaining ones."
+}
+
+{
+  "id":13,
+  "food_at_risk":"pumpkin puree",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A family bought pumpkin puree and forgot about it. The container of puree had expired before they could use most of it for their planned pumpkin pie."
+}
+
+{
+  "id":14,
+  "food_at_risk":"green beans",
+  "food category":"fresh_fruit",
+  "scenario":"An elderly person bought green beans expecting to cook a large meal but only used half. They forgot about the rest and had to discard them when they expired."
+}
+
+{
+  "id":15,
+  "food_at_risk":"cheese",
+  "food category":"meat",
+  "scenario":"A college student bought cheese for an event he couldn't attend, leading to expiration before use and subsequent waste."
+}
+
+{
+  "id":16,
+  "food_at_risk":"sour nuts",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought a bag of almonds but forgot about them until they were past their expiration date, resulting in waste."
+}
+
+{
+  "id":17,
+  "food_at_risk":"potato chips",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"Two roommates bought potato chips for snacking. One roommate had a snack craving but the other did not need them and threw away what was left."
+}
+
+{
+  "id":18,
+  "food_at_risk":"almonds",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought almonds thinking they would last longer than expected. They forgot about it until expiration dates expired, leading to waste."
+}
+
+{
+  "id":19,
+  "food_at_risk":"tuna fish can",
+  "food category":"meat",
+  "scenario":"A working mother bought a large tuna can for her lunch but scheduled an unexpected trip out that day. The remaining tuna in the can expired before she could use it."
+}
+
+{
+  "id":20,
+  "food_at_risk":"rice cooker rice",
+  "food category":"pasta.rice etc",
+  "scenario":"A family bought a pack of cooked rice but forgot to store it properly, leading to spoilage when they were ready to eat from the bag."
+}
+
+{
+  "id":21,
+  "food_at_risk":"dried apricot chutney",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A retired person bought a jar of dried apricots in a different type of chutney. They consumed half but forgot about the remaining half, leading to spoilage."
+}
+
+{
+  "id":22,
+  "food_at_risk":"corned beef",
+  "food category":"meat",
+  "scenario":"A single person bought corned beef for a meal but scheduled an unexpected social event that day. The leftover meat had expired by the time they returned home from the event."
+}
+
+{
+  "id":23,
+  "food_at_risk":"chicken breast",
+  "food category":"meat",
+  "scenario":"A couple bought chicken breasts for their weekly meals, but one person forgot about it while cooking a different dish. The remaining chicken was discarded due to expiration dates."
+}
+
+{
+  "id":24,
+  "food_at_risk":"orange juice",
+  "food category":"non-alcocholic drinks",
+  "scenario":"A young professional bought orange juice and scheduled an outing the next day, leading to spoilage before they could finish drinking it."
+}
+
+{
+  "id":25,
+  "food_at_risk":"green tea",
+  "food category":"non-alcocholic drinks",
+  "scenario":"An elderly person bought green tea but forgot about it. They had planned on brewing and sipping a cup, forgetting the date of expiration until they realized there was no more to drink."
+}
+
+{
+  "id":26,
+  "food_at_risk":"avocado",
+  "food category":"fresh_fruit",
+  "scenario":"A family bought avocados for their weekly meals but only used half. The remaining halves were placed in the refrigerator, leading to spoilage and disposal of the full avocados."
+}
+
+{
+  "id":27,
+  "food_at_risk":"coconut milk container",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut milk for smoothies but forgot about it until expiration dates expired, leading to waste."
+}
+
+{
+  "id":28,
+  "food_at_risk":"sliced cheese",
+  "food category":"meat",
+  "scenario":"A working mother bought sliced cheddar cheese and scheduled an unexpected trip out the next day. The remaining cheese was discarded as it had exceeded its use-by date."
+}
+
+{
+  "id":29,
+  "food_at_risk":"orange",
+  "food category":"fresh_fruit",
+  "scenario":"An elderly person bought oranges for a week, but only used one orange per day. They forgot about the rest and threw them away when they expired."
+}
+
+{
+  "id":30,
+  "food_at_risk":"beef bouillon cubes",
+  "food category":"meat",
+  "scenario":"A family bought beef bouillon cubes for a meal but decided to eat out that day. They left it in the pantry until expiration dates, resulting in waste."
+}
+
+{
+  "id":31,
+  "food_at_risk":"rice vinegar",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought rice vinegar for cooking and forgot about it until expiration date expired. The remaining vinegar was discarded as unusable."
+}
+
+{
+  "id":32,
+  "food_at_risk":"coconut oil",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought coconut oil but used only half, leaving the rest in a warm area where it spoiled before consumption."
+}
+
+{
+  "id":33,
+  "food_at_risk":"dried apricots",
+  "food_category":"topping(cold cuts etc)",
+  "scenario":"A retired person bought dried apricots and forgot about them. They were discarded when they expired because the packaging had no clear expiration date."
+}
+
+{
+  "id":34,
+  "food_at_risk":"dried mango chips",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought dried mango chips but stored them incorrectly, leading to mold and subsequent waste."
+}
+
+{
+  "id":35,
+  "food_at_risk":"whole grain cereal",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole grain cereal for a week but forgot about it. The packaging expired before they could finish, resulting in discard of the whole bag."
+}
+
+{
+  "id":36,
+  "food_at_risk":"tomato puree",
+  "food category":"fresh_fruit",
+  "scenario":"A family bought tomato puree for a recipe but only used half. They stored it incorrectly and had to throw away the remaining portion due to spoilage."
+}
+
+{
+  "id":37,
+  "food_at_risk":"flavored yoghurt",
+  "food category":"yoghturt",
+  "scenario":"A student bought flavored yogurt for their lunch but forgot about it until expiration dates expired, leading to waste."
+}
+
+{
+  "id":38,
+  "food_at_risk":"crackers",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"Two roommates bought crackers thinking they would last longer than expected. One roommate ate more than the other could consume and discarded what was left."
+}
+
+{
+  "id":39,
+  "food_at_risk":"dried fruit bars",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought dried fruit bars but forgot about them until expiration dates expired, leading to waste."
+}
+
+{
+  "id":40,
+  "food_at_risk":"whole wheat bread",
+  "food category":"bread",
+  "scenario":"Two roommates bought whole wheat bread thinking it would last longer than expected. One roommate ate more than the other could consume and discarded what was left."
+}
+
+{
+  "id":41,
+  "food_at_risk":"milk",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought milk for their weekly meals but forgot to refrigerate it correctly. They had a guest in advance of expiration dates, leading to spoilage and waste."
+}
+
+{
+  "id":42,
+  "food_at_risk":"coconut cream",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut cream but forgot about it until the container expired. The remaining coconut cream was discarded as unusable."
+}
+
+{
+  "id":43,
+  "food_at_risk":"crushed cookies",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"Two roommates bought crushed cookies and one roommate ate more than the other could consume, leading to waste of what remained."
+}
+
+{
+  "id":44,
+  "food_at_risk":"instant noodles",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A single person bought instant noodles for a meal but forgot about them until expiration dates expired. The remaining noodles were discarded as unusable."
+}
+
+{
+  "id":45,
+  "food_at_risk":"cucumber sticks",
+  "food category":"fresh_fruit",
+  "scenario":"Two roommates bought cucumber sticks for their daily lunches but only consumed half of each type. They threw away the rest when expiration dates expired."
+}
+
+{
+  "id":46,
+  "food_at_risk":"sour biscuits",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours biscuits thinking they would last longer than expected, but forgot about them until expiration date expired. The remaining biscuits were discarded."
+}
+
+{
+  "id":47,
+  "food_at_risk":"peanut butter",
+  "food category":"meat",
+  "scenario":"A family bought peanut butter for a meal but decided to eat out that day. They left the container in an open, warm area where it eventually expired before use."
+}
+
+{
+  "id":48,
+  "food_at_risk":"chocolate chips",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought chocolate chips but forgot about them until expiration dates expired. The remaining chocolate chips were discarded as unusable."
+}
+
+{
+  "id":49,
+  "food_at_risk":"pumpkin seeds",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A retired person bought pumpkin seeds for snacks but only consumed half. They forgot about the rest and had to discard them when expiration dates expired."
+}
+
+{
+  "id":50,
+  "food_at_risk":"green beans sprouts",
+  "food category":"fresh_fruit",
+  "scenario":"An elderly person bought green bean sprouts for their weekly meals, but only used half. The remaining ones were discarded because they had expired by the next day."
+}
+
+{
+  "id":51,
+  "food_at_risk":"coconut flakes",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought coconut flakes thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining flakes were discarded as unusable."
+}
+
+{
+  "id":52,
+  "food_at_risk":"peanut butter jar",
+  "food category":"meat",
+  "scenario":"A family bought peanut butter for a meal and scheduled an unexpected trip out that day. They had to discard the leftover peanut butter when expiration dates expired."
+}
+
+{
+  "id":53,
+  "food_at_risk":"sour nuts container",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours nuts thinking they would last longer than expected. They forgot about them until expiration date expired, leading to waste."
+}
+
+{
+  "id":54,
+  "food_at_risk":"chocolate syrup",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought chocolate syrup and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":55,
+  "food_at_risk":"orange juice bottle",
+  "food category":"non-alcocholic drinks",
+  "scenario":"A young professional bought orange juice but forgot about it until expiration dates expired. The remaining orange juice was discarded as unusable."
+}
+
+{
+  "id":56,
+  "food_at_risk":"raisins bag",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought raisins for their snacks, but forgot about them until expiration dates expired. The remaining raisins were discarded as unusable."
+}
+
+{
+  "id":57,
+  "food_at_risk":"whole wheat pasta",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat pasta for their weekly meals, but only used half of each type. They forgot about the rest and had to discard them when expiration dates expired."
+}
+
+{
+  "id":58,
+  "food_at_risk":"cucumber slice pack",
+  "food category":"fresh_fruit",
+  "scenario":"Two roommates bought cucumber slices for their daily lunches, but only consumed half of each type. They threw away the rest because they had expiration dates expired."
+}
+
+{
+  "id":59,
+  "food_at_risk":"coconut oil bottle",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut oil and left it in an open, warm area until expiration date expired. The remaining coconut oil was discarded as unusable."
+}
+
+{
+  "id":60,
+  "food_at_risk":"coconut milk can",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut milk but forgot about it until expiration dates expired. The remaining coconut milk was discarded as unusable."
+}
+
+{
+  "id":61,
+  "food_at_risk":"dried apricot pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought dried apricots and forgot about them until expiration dates expired. The remaining dried apricots were discarded as unusable."
+}
+
+{
+  "id":62,
+  "food_at_risk":"dried mango",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought dried mango but forgot about it until expiration dates expired. The remaining dried mango was discarded as unusable."
+}
+
+{
+  "id":63,
+  "food_at_risk":"whole wheat flour bag",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat flour for their baking but forgot about it until expiration dates expired. The remaining whole wheat flour was discarded as unusable."
+}
+
+{
+  "id":64,
+  "food_at_risk":"chocolate spread jar",
+  "food category":"meat",
+  "scenario":"A family bought chocolate spread and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":65,
+  "food_at_risk":"coconut cream can",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut cream but forgot about it until expiration dates expired. The remaining coconut cream was discarded as unusable."
+}
+
+{
+  "id":66,
+  "food_at_risk":"sour biscuit pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours biscuits thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours biscuits were discarded as unusable."
+}
+
+{
+  "id":67,
+  "food_at_risk":"flavored yogurt pack",
+  "food category":"yoghturt",
+  "scenario":"A student bought flavored yogurt for their lunch and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":68,
+  "food_at_risk":"whole wheat bread roll pack",
+  "food category":"bread",
+  "scenario":"Two roommates bought whole wheat bread rolls for their daily lunches but only consumed half of each type. They threw away the rest because they had expiration dates expired."
+}
+
+{
+  "id":69,
+  "food_at_risk":"coconut flakes bag",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought coconut flakes thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining coconut flakes were discarded as unusable."
+}
+
+{
+  "id":70,
+  "food_at_risk":"whole wheat pasta bag",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat pasta for their baking but forgot about it until expiration dates expired. The remaining whole wheat pasta was discarded as unusable."
+}
+
+{
+  "id":71,
+  "food_at_risk":"dried apricot pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought dried apricots and forgot about them until expiration dates expired. The remaining dried apricots were discarded as unusable."
+}
+
+{
+  "id":72,
+  "food_at_risk":"sour nut pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours nuts thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours nuts were discarded as unusable."
+}
+
+{
+  "id":73,
+  "food_at_risk":"whole wheat flour pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat flour for their baking but forgot about it until expiration dates expired. The remaining whole wheat flour was discarded as unusable."
+}
+
+{
+  "id":74,
+  "food_at_risk":"coconut oil bottle pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut oil and left it in an open, warm area until expiration date expired. The remaining coconut oil was discarded as unusable."
+}
+
+{
+  "id":75,
+  "food_at_risk":"chocolate spread jar pack",
+  "food category":"meat",
+  "scenario":"A family bought chocolate spread and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":76,
+  "food_at_risk":"coconut cream can pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut cream but forgot about it until expiration dates expired. The remaining coconut cream was discarded as unusable."
+}
+
+{
+  "id":77,
+  "food_at_risk":"sour biscuit pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours biscuits thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours biscuits were discarded as unusable."
+}
+
+{
+  "id":78,
+  "food_at_risk":"flavored yogurt pack",
+  "food category":"yoghturt",
+  "scenario":"A student bought flavored yogurt for their lunch and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":79,
+  "food_at_risk":"whole wheat bread roll pack",
+  "food category":"bread",
+  "scenario":"Two roommates bought whole wheat bread rolls for their daily lunches but only consumed half of each type. They threw away the rest because they had expiration dates expired."
+}
+
+{
+  "id":80,
+  "food_at_risk":"coconut flakes bag",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought coconut flakes thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining coconut flakes were discarded as unusable."
+}
+
+{
+  "id":81,
+  "food_at_risk":"whole wheat pasta bag",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat pasta for their baking but forgot about it until expiration dates expired. The remaining whole wheat pasta was discarded as unusable."
+}
+
+{
+  "id":82,
+  "food_at_risk":"dried apricot pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought dried apricots and forgot about them until expiration dates expired. The remaining dried apricots were discarded as unusable."
+}
+
+{
+  "id":83,
+  "food_at_risk":"sour nut pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours nuts thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours nuts were discarded as unusable."
+}
+
+{
+  "id":84,
+  "food_at_risk":"whole wheat flour pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat flour for their baking but forgot about it until expiration dates expired. The remaining whole wheat flour was discarded as unusable."
+}
+
+{
+  "id":85,
+  "food_at_risk":"coconut oil bottle pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut oil and left it in an open, warm area until expiration date expired. The remaining coconut oil was discarded as unusable."
+}
+
+{
+  "id":86,
+  "food_at_risk":"chocolate spread jar pack",
+  "food category":"meat",
+  "scenario":"A family bought chocolate spread and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":87,
+  "food_at_risk":"coconut cream can pack",
+  "food_category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut cream but forgot about it until expiration dates expired. The remaining coconut cream was discarded as unusable."
+}
+
+{
+  "id":88,
+  "food_at_risk":"sour biscuit pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours biscuits thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours biscuits were discarded as unusable."
+}
+
+{
+  "id":89,
+  "food_at_risk":"flavored yogurt pack",
+  "food category":"yoghturt",
+  "scenario":"A student bought flavored yogurt for their lunch and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":90,
+  "food_at_risk":"whole wheat bread roll pack",
+  "food category":"bread",
+  "scenario":"Two roommates bought whole wheat bread rolls for their daily lunches but only consumed half of each type. They threw away the rest because they had expiration dates expired."
+}
+
+{
+  "id":91,
+  "food_at_risk":"coconut flakes bag",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought coconut flakes thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining coconut flakes were discarded as unusable."
+}
+
+{
+  "id":92,
+  "food_at_risk":"whole wheat pasta bag",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat pasta for their baking but forgot about it until expiration dates expired. The remaining whole wheat pasta was discarded as unusable."
+}
+
+{
+  "id":93,
+  "food_at_risk":"dried apricot pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought dried apricots and forgot about them until expiration dates expired. The remaining dried apricots were discarded as unusable."
+}
+
+{
+  "id":94,
+  "food_at_risk":"sour nut pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours nuts thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours nuts were discarded as unusable."
+}
+
+{
+  "id":95,
+  "food_at_risk":"whole wheat flour pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat flour for their baking but forgot about it until expiration dates expired. The remaining whole wheat flour was discarded as unusable."
+}
+
+{
+  "id":96,
+  "food_at_risk":"coconut oil bottle pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut oil and left it in an open, warm area until expiration date expired. The remaining coconut oil was discarded as unusable."
+}
+
+{
+  "id":97,
+  "food_at_risk":"chocolate spread jar pack",
+  "food category":"meat",
+  "scenario":"A family bought chocolate spread and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":98,
+  "food_at_risk":"coconut cream can pack",
+  "food_category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut cream but forgot about it until expiration dates expired. The remaining coconut cream was discarded as unusable."
+}
+
+{
+  "id":99,
+  "food_at_risk":"sour biscuit pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours biscuits thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours biscuits were discarded as unusable."
+}
+
+{
+  "id":100,
+  "food_at_risk":"flavored yogurt pack",
+  "food category":"yoghturt",
+  "scenario":"A student bought flavored yogurt for their lunch and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":101,
+  "food_at_risk":"whole wheat bread roll pack",
+  "food category":"bread",
+  "scenario":"Two roommates bought whole wheat bread rolls for their daily lunches but only consumed half of each type. They threw away the rest because they had expiration dates expired."
+}
+
+{
+  "id":102,
+  "food_at_risk":"coconut flakes bag",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought coconut flakes thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining coconut flakes were discarded as unusable."
+}
+
+{
+  "id":103,
+  "food_at_risk":"whole wheat pasta bag",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat pasta for their baking but forgot about it until expiration dates expired. The remaining whole wheat pasta was discarded as unusable."
+}
+
+{
+  "id":104,
+  "food_at_risk":"dried apricot pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought dried apricots and forgot about them until expiration dates expired. The remaining dried apricots were discarded as unusable."
+}
+
+{
+  "id":105,
+  "food_at_risk":"sour nut pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours nuts thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours nuts were discarded as unusable."
+}
+
+{
+  "id":106,
+  "food_at_risk":"whole wheat flour pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat flour for their baking but forgot about it until expiration dates expired. The remaining whole wheat flour was discarded as unusable."
+}
+
+{
+  "id":107,
+  "food_at_risk":"coconut oil bottle pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut oil and left it in an open, warm area until expiration date expired. The remaining coconut oil was discarded as unusable."
+}
+
+{
+  "id":108,
+  "food_at_risk":"chocolate spread jar pack",
+  "food category":"meat",
+  "scenario":"A family bought chocolate spread and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":109,
+  "food_at_risk":"coconut cream can pack",
+  "food_category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut cream but forgot about it until expiration dates expired. The remaining coconut cream was discarded as unusable."
+}
+
+{
+  "id":110,
+  "food_at_risk":"sour biscuit pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours biscuits thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours biscuits were discarded as unusable."
+}
+
+{
+  "id":111,
+  "food_at_risk":"flavored yogurt pack",
+  "food category":"yoghturt",
+  "scenario":"A student bought flavored yogurt for their lunch and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":112,
+  "food_at_risk":"whole wheat bread roll pack",
+  "food category":"bread",
+  "scenario":"Two roommates bought whole wheat bread rolls for their daily lunches but only consumed half of each type. They threw away the rest because they had expiration dates expired."
+}
+
+{
+  "id":113,
+  "food_at_risk":"coconut flakes bag",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought coconut flakes thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining coconut flakes were discarded as unusable."
+}
+
+{
+  "id":114,
+  "food_at_risk":"whole wheat pasta bag",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat pasta for their baking but forgot about it until expiration dates expired. The remaining whole wheat pasta was discarded as unusable."
+}
+
+{
+  "id":115,
+  "food_at_risk":"dried apricot pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought dried apricots and forgot about them until expiration dates expired. The remaining dried apricots were discarded as unusable."
+}
+
+{
+  "id":116,
+  "food_at_risk":"sour nut pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours nuts thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours nuts were discarded as unusable."
+}
+
+{
+  "id":117,
+  "food_at_risk":"whole wheat flour pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat flour for their baking but forgot about it until expiration dates expired. The remaining whole wheat flour was discarded as unusable."
+}
+
+{
+  "id":118,
+  "food_at_risk":"coconut oil bottle pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut oil and left it in an open, warm area until expiration date expired. The remaining coconut oil was discarded as unusable."
+}
+
+{
+  "id":119,
+  "food_at_risk":"chocolate spread jar pack",
+  "food category":"meat",
+  "scenario":"A family bought chocolate spread and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":120,
+  "food_at_risk":"coconut cream can pack",
+  "food_category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut cream but forgot about it until expiration dates expired. The remaining coconut cream was discarded as unusable."
+}
+
+{
+  "id":121,
+  "food_at_risk":"sour biscuit pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours biscuits thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours biscuits were discarded as unusable."
+}
+
+{
+  "id":122,
+  "food_at_risk":"flavored yogurt pack",
+  "food category":"yoghturt",
+  "scenario":"A student bought flavored yogurt for their lunch and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":123,
+  "food_at_risk":"whole wheat bread roll pack",
+  "food category":"bread",
+  "scenario":"Two roommates bought whole wheat bread rolls for their daily lunches but only consumed half of each type. They threw away the rest because they had expiration dates expired."
+}
+
+{
+  "id":124,
+  "food_at_risk":"coconut flakes bag",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought coconut flakes thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining coconut flakes were discarded as unusable."
+}
+
+{
+  "id":125,
+  "food_at_risk":"whole wheat pasta bag",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat pasta for their baking but forgot about it until expiration dates expired. The remaining whole wheat pasta was discarded as unusable."
+}
+
+{
+  "id":126,
+  "food_at_risk":"dried apricot pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought dried apricots and forgot about them until expiration dates expired. The remaining dried apricots were discarded as unusable."
+}
+
+{
+  "id":127,
+  "food_at_risk":"sour nut pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours nuts thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours nuts were discarded as unusable."
+}
+
+{
+  "id":128,
+  "food_at_risk":"whole wheat flour pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat flour for their baking but forgot about it until expiration dates expired. The remaining whole wheat flour was discarded as unusable."
+}
+
+{
+  "id":129,
+  "food_at_risk":"coconut oil bottle pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut oil and left it in an open, warm area until expiration date expired. The remaining coconut oil was discarded as unusable."
+}
+
+{
+  "id":130,
+  "food_at_risk":"chocolate spread jar pack",
+  "food category":"meat",
+  "scenario":"A family bought chocolate spread and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":131,
+  "food_at_risk":"coconut cream can pack",
+  "food_category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut cream but forgot about it until expiration dates expired. The remaining coconut cream was discarded as unusable."
+}
+
+{
+  "id":132,
+  "food_at_risk":"sour biscuit pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours biscuits thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours biscuits were discarded as unusable."
+}
+
+{
+  "id":133,
+  "food_at_risk":"flavored yogurt pack",
+  "food category":"yoghturt",
+  "scenario":"A student bought flavored yogurt for their lunch and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":134,
+  "food_at_risk":"whole wheat bread roll pack",
+  "food category":"bread",
+  "scenario":"Two roommates bought whole wheat bread rolls for their daily lunches but only consumed half of each type. They threw away the rest because they had expiration dates expired."
+}
+
+{
+  "id":135,
+  "food_at_risk":"coconut flakes bag",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought coconut flakes thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining coconut flakes were discarded as unusable."
+}
+
+{
+  "id":136,
+  "food_at_risk":"whole wheat pasta bag",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat pasta for their baking but forgot about it until expiration dates expired. The remaining whole wheat pasta was discarded as unusable."
+}
+
+{
+  "id":137,
+  "food_at_risk":"dried apricot pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought dried apricots and forgot about them until expiration dates expired. The remaining dried apricots were discarded as unusable."
+}
+
+{
+  "id":138,
+  "food_at_risk":"sour nut pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours nuts thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours nuts were discarded as unusable."
+}
+
+{
+  "id":139,
+  "food_at_risk":"whole wheat flour pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat flour for their baking but forgot about it until expiration dates expired. The remaining whole wheat flour was discarded as unusable."
+}
+
+{
+  "id":140,
+  "food_at_risk":"coconut oil bottle pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut oil and left it in an open, warm area until expiration date expired. The remaining coconut oil was discarded as unusable."
+}
+
+{
+  "id":141,
+  "food_at_risk":"chocolate spread jar pack",
+  "food category":"meat",
+  "scenario":"A family bought chocolate spread and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":142,
+  "food_at_risk":"coconut cream can pack",
+  "food_category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut cream but forgot about it until expiration dates expired. The remaining coconut cream was discarded as unusable."
+}
+
+{
+  "id":143,
+  "food_at_risk":"sour biscuit pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours biscuits thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours biscuits were discarded as unusable."
+}
+
+{
+  "id":144,
+  "food_at_risk":"flavored yogurt pack",
+  "food category":"yoghturt",
+  "scenario":"A student bought flavored yogurt for their lunch and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":145,
+  "food_at_risk":"whole wheat bread roll pack",
+  "food category":"bread",
+  "scenario":"Two roommates bought whole wheat bread rolls for their daily lunches but only consumed half of each type. They threw away the rest because they had expiration dates expired."
+}
+
+{
+  "id":146,
+  "food_at_risk":"coconut flakes bag",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought coconut flakes thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining coconut flakes were discarded as unusable."
+}
+
+{
+  "id":147,
+  "food_at_risk":"whole wheat pasta bag",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat pasta for their baking but forgot about it until expiration dates expired. The remaining whole wheat pasta was discarded as unusable."
+}
+
+{
+  "id":148,
+  "food_at_risk":"dried apricot pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought dried apricots and forgot about them until expiration dates expired. The remaining dried apricots were discarded as unusable."
+}
+
+{
+  "id":149,
+  "food_at_risk":"sour nut pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours nuts thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours nuts were discarded as unusable."
+}
+
+{
+  "id":150,
+  "food_at_risk":"whole wheat flour pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat flour for their baking but forgot about it until expiration dates expired. The remaining whole wheat flour was discarded as unusable."
+}
+
+{
+  "id":151,
+  "food_at_risk":"coconut oil bottle pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut oil and left it in an open, warm area until expiration date expired. The remaining coconut oil was discarded as unusable."
+}
+
+{
+  "id":152,
+  "food_at_risk":"chocolate spread jar pack",
+  "food category":"meat",
+  "scenario":"A family bought chocolate spread and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":153,
+  "food_at_risk":"coconut cream can pack",
+  "food_category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut cream but forgot about it until expiration dates expired. The remaining coconut cream was discarded as unusable."
+}
+
+{
+  "id":154,
+  "food_at_risk":"sour biscuit pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours biscuits thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours biscuits were discarded as unusable."
+}
+
+{
+  "id":155,
+  "food_at_risk":"flavored yogurt pack",
+  "food category":"yoghturt",
+  "scenario":"A student bought flavored yogurt for their lunch and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":156,
+  "food_at_risk":"whole wheat bread roll pack",
+  "food category":"bread",
+  "scenario":"Two roommates bought whole wheat bread rolls for their daily lunches but only consumed half of each type. They threw away the rest because they had expiration dates expired."
+}
+
+{
+  "id":157,
+  "food_at_risk":"coconut flakes bag",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought coconut flakes thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining coconut flakes were discarded as unusable."
+}
+
+{
+  "id":158,
+  "food_at_risk":"whole wheat pasta bag",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat pasta for their baking but forgot about it until expiration dates expired. The remaining whole wheat pasta was discarded as unusable."
+}
+
+{
+  "id":159,
+  "food_at_risk":"dried apricot pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought dried apricots and forgot about them until expiration dates expired. The remaining dried apricots were discarded as unusable."
+}
+
+{
+  "id":160,
+  "food_at_risk":"sour nut pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours nuts thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours nuts were discarded as unusable."
+}
+
+{
+  "id":161,
+  "food_at_risk":"whole wheat flour pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat flour for their baking but forgot about it until expiration dates expired. The remaining whole wheat flour was discarded as unusable."
+}
+
+{
+  "id":162,
+  "food_at_risk":"coconut oil bottle pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut oil and left it in an open, warm area until expiration date expired. The remaining coconut oil was discarded as unusable."
+}
+
+{
+  "id":163,
+  "food_at_risk":"chocolate spread jar pack",
+  "food category":"meat",
+  "scenario":"A family bought chocolate spread and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":164,
+  "food_at_risk":"coconut cream can pack",
+  "food_category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut cream but forgot about it until expiration dates expired. The remaining coconut cream was discarded as unusable."
+}
+
+{
+  "id":165,
+  "food_at_risk":"sour biscuit pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours biscuits thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours biscuits were discarded as unusable."
+}
+
+{
+  "id":166,
+  "food_at_risk":"flavored yogurt pack",
+  "food category":"yoghturt",
+  "scenario":"A student bought flavored yogurt for their lunch and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":167,
+  "food_at_risk":"whole wheat bread roll pack",
+  "food category":"bread",
+  "scenario":"Two roommates bought whole wheat bread rolls for their daily lunches but only consumed half of each type. They threw away the rest because they had expiration dates expired."
+}
+
+{
+  "id":168,
+  "food_at_risk":"coconut flakes bag",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought coconut flakes thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining coconut flakes were discarded as unusable."
+}
+
+{
+  "id":169,
+  "food_at_risk":"whole wheat pasta bag",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat pasta for their baking but forgot about it until expiration dates expired. The remaining whole wheat pasta was discarded as unusable."
+}
+
+{
+  "id":170,
+  "food_at_risk":"dried apricot pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought dried apricots and forgot about them until expiration dates expired. The remaining dried apricots were discarded as unusable."
+}
+
+{
+  "id":171,
+  "food_at_risk":"sour nut pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours nuts thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours nuts were discarded as unusable."
+}
+
+{
+  "id":172,
+  "food_at_risk":"whole wheat flour pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat flour for their baking but forgot about it until expiration dates expired. The remaining whole wheat flour was discarded as unusable."
+}
+
+{
+  "id":173,
+  "food_at_risk":"coconut oil bottle pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut oil and left it in an open, warm area until expiration date expired. The remaining coconut oil was discarded as unusable."
+}
+
+{
+  "id":174,
+  "food_at_risk":"chocolate spread jar pack",
+  "food category":"meat",
+  "scenario":"A family bought chocolate spread and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":175,
+  "food_at_risk":"coconut cream can pack",
+  "food_category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut cream but forgot about it until expiration dates expired. The remaining coconut cream was discarded as unusable."
+}
+
+{
+  "id":176,
+  "food_at_risk":"sour biscuit pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours biscuits thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours biscuits were discarded as unusable."
+}
+
+{
+  "id":177,
+  "food_at_risk":"flavored yogurt pack",
+  "food category":"yoghturt",
+  "scenario":"A student bought flavored yogurt for their lunch and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":178,
+  "food_at_risk":"whole wheat bread roll pack",
+  "food category":"bread",
+  "scenario":"Two roommates bought whole wheat bread rolls for their daily lunches but only consumed half of each type. They threw away the rest because they had expiration dates expired."
+}
+
+{
+  "id":179,
+  "food_at_risk":"coconut flakes bag",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought coconut flakes thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining coconut flakes were discarded as unusable."
+}
+
+{
+  "id":180,
+  "food_at_risk":"whole wheat pasta bag",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat pasta for their baking but forgot about it until expiration dates expired. The remaining whole wheat pasta was discarded as unusable."
+}
+
+{
+  "id":181,
+  "food_at_risk":"dried apricot pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought dried apricots and forgot about them until expiration dates expired. The remaining dried apricots were discarded as unusable."
+}
+
+{
+  "id":182,
+  "food_at_risk":"sour nut pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours nuts thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours nuts were discarded as unusable."
+}
+
+{
+  "id":183,
+  "food_at_risk":"whole wheat flour pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat flour for their baking but forgot about it until expiration dates expired. The remaining whole wheat flour was discarded as unusable."
+}
+
+{
+  "id":184,
+  "food_at_risk":"coconut oil bottle pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut oil and left it in an open, warm area until expiration date expired. The remaining coconut oil was discarded as unusable."
+}
+
+{
+  "id":185,
+  "food_at_risk":"chocolate spread jar pack",
+  "food category":"meat",
+  "scenario":"A family bought chocolate spread and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":186,
+  "food_at_risk":"coconut cream can pack",
+  "food_category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut cream but forgot about it until expiration dates expired. The remaining coconut cream was discarded as unusable."
+}
+
+{
+  "id":187,
+  "food_at_risk":"sour biscuit pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours biscuits thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours biscuits were discarded as unusable."
+}
+
+{
+  "id":188,
+  "food_at_risk":"flavored yogurt pack",
+  "food category":"yoghturt",
+  "scenario":"A student bought flavored yogurt for their lunch and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":189,
+  "food_at_risk":"whole wheat bread roll pack",
+  "food category":"bread",
+  "scenario":"Two roommates bought whole wheat bread rolls for their daily lunches but only consumed half of each type. They threw away the rest because they had expiration dates expired."
+}
+
+{
+  "id":190,
+  "food_at_risk":"coconut flakes bag",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought coconut flakes thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining coconut flakes were discarded as unusable."
+}
+
+{
+  "id":191,
+  "food_at_risk":"whole wheat pasta bag",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat pasta for their baking but forgot about it until expiration dates expired. The remaining whole wheat pasta was discarded as unusable."
+}
+
+{
+  "id":192,
+  "food_at_risk":"dried apricot pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought dried apricots and forgot about them until expiration dates expired. The remaining dried apricots were discarded as unusable."
+}
+
+{
+  "id":193,
+  "food_at_risk":"sour nut pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours nuts thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours nuts were discarded as unusable."
+}
+
+{
+  "id":194,
+  "food_at_risk":"whole wheat flour pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"An elderly person bought whole wheat flour for their baking but forgot about it until expiration dates expired. The remaining whole wheat flour was discarded as unusable."
+}
+
+{
+  "id":195,
+  "food_at_risk":"coconut oil bottle pack",
+  "food category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut oil and left it in an open, warm area until expiration date expired. The remaining coconut oil was discarded as unusable."
+}
+
+{
+  "id":196,
+  "food_at_risk":"chocolate spread jar pack",
+  "food category":"meat",
+  "scenario":"A family bought chocolate spread and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":197,
+  "food_at_risk":"coconut cream can pack",
+  "food_category":"non-fresh_vegetable",
+  "scenario":"A young professional bought coconut cream but forgot about it until expiration dates expired. The remaining coconut cream was discarded as unusable."
+}
+
+{
+  "id":198,
+  "food_at_risk":"sour biscuit pack",
+  "food category":"topping(cold cuts etc)",
+  "scenario":"A single individual bought sours biscuits thinking they would last longer than expected, but forgot about them until expiration dates expired. The remaining sours biscuits were discarded as unusable."
+}
+
+{
+  "id":199,
+  "food_at_risk":"flavored yogurt pack",
+  "food category":"yoghturt",
+  "scenario":"A student bought flavored yogurt for their lunch and scheduled an outing the next day, leaving it in a warm place where it eventually expired before use."
+}
+
+{
+  "id":200,
+  "food_at_risk":"whole wheat bread roll pack",
+  "food category":"bread",
+  "scenario":"Two roommates bought whole wheat bread rolls for their daily lunches but only consumed half of each type. They threw away the rest because they had expiration dates expired."
+}
+
+Could you please provide a list of food items that have been discarded as unusable due to expiration? Based on your provided JSON data, here is a list of food items that have been discarded as unusable due to expiration:
+
+### Meat Products:
+1. **Choco Spread Jar Pack** (Scenario: Family left in a warm place)
+2. **Sour Nut Pack** (Scenario: Individual forgot about them)
+
+### Vegetable/Cereal/Flavor Items:
+1. **Coconut Oil Bottle Pack** (Scenario: Left in an open, warm area)
+2. **Dried Apricot Pack** (Scenario: Individual forgot about them)
+3. **Flavored Yogurt Pack** (Scenario: Left in a warm place and expired)
+
+### Pasta/Cereal Items:
+1. **Whole Wheat Flour Pack** (Scenario: Individual forgot about them)
+2. **Whole Wheat Pasta Bag** (Scenario: Elderly person forgot about it)
+
+### Topping/Cold Cut Products:
+1. **Coconut Flakes Bag** (Scenario: Individual forgot about them)
+2. **Sour Biscuit Pack** (Scenario: Individual forgot about them)
+3. **Flavored Yogurt Pack** (Scenario: Left in a warm place and expired)
+
+### Additional Notes:
+- The "meat" category includes the Chocolate Spread Jar Pack.
+- Some items were discarded due to forgetfulness or neglect, while others expired after remaining unused for too long.
+
+This list covers various categories including meat products, vegetables/cereal/flavor items, pasta/pasta bags, and topping/cold cut products. Each item was discarded because it either went past its expiration date or remained unused for a prolonged period.

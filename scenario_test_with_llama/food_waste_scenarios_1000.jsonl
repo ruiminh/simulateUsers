@@ -1,0 +1,90 @@
+import json
+import random
+from datetime import timedelta
+
+# Food categories and their corresponding weight in the dataset
+food_categories = {
+    'fresh_vegetable': 20,
+    'non-fresh_vegetable': 15,
+    'fresh_fruit': 10,
+    'potato': 8,
+    'pasta_rice etc': 6,
+    'meat': 12,
+    'topping(cold cuts etc)': 8,
+    'bread': 5,
+    'yoghturt': 8,
+    'egg': 4,
+    'soup and curries': 6,
+    'mile': 2,
+    'non-alcocholic_drinks': 4,
+    'alcoholic_drinks': 2
+}
+
+# Waste causes and their corresponding weight in the dataset
+waste_causes = {
+    'forgotten food': 20,
+    'overbuying': 15,
+    'impulse purchases': 10,
+    'bulk discounts': 8,
+    'changing meal plans': 6,
+    'eating out unexpectedly': 4,
+    'travel': 3,
+    'poor storage': 5,
+    'misunderstanding expiration labels': 2,
+    'cooking too much': 4,
+    'loss of appetite': 2,
+    'duplicate purchases': 1,
+    'gifts from friends or family': 1,
+    'seasonal purchasing': 1,
+    'children\'s preferences changing': 1,
+    'work schedule changes': 1,
+    'social events': 1,
+    'food spoiling faster than expected': 2
+}
+
+# Generate 1000 scenarios
+for _ in range(1000):
+    # Choose a food category and its corresponding quantity for this scenario
+    cat = random.choices(list(food_categories.keys()), weights=food_categories.values())[0]
+    num = random.randint(1, food_categories[cat])
+    
+    # Choose a waste cause and its corresponding quantity for this scenario
+    waste_cat = random.choices(list(waste_causes.keys()), weights=waste_causes.values())[0]
+    num2 = random.randint(1, waste_causes[waste_cat])
+    
+    # Determine the time elapsed before any intervention
+    if cat == 'fresh_vegetable':
+        days = random.randint(3, 10)
+    elif cat in ['non-fresh_vegetable', 'soup and curries']:
+        days = random.randint(5, 15)
+    else:
+        days = random.randint(2, 8)
+    
+    time_elapsed = timedelta(days=days)
+    
+    # Determine the food at risk
+    if cat == 'meat':
+        food_at_risk = f"{num} lbs of {cat}"
+    elif cat in ['bread', 'yoghturt']:
+        food_at_risk = f"1 {cat}"
+    else:
+        food_at_risk = f"1 bunch of {cat}" if num > 1 else f"{num} {cat}"
+    
+    # Determine the reason for waste
+    scenario = (
+        "After buying a large quantity of fresh spinach, a couple forgot about it during their vacation."
+        if cat == 'fresh_vegetable' and waste_cat == 'forgotten food'
+        else (
+            "A student purchased a large tub of yogurt because it was on sale. After switching to breakfast at work,"
+            + (" they let the rest of the yogurt sit unopened until it passed its use-by date." if num > 1 else ".")
+            if cat in ['yoghturt', 'soup and curries'] and waste_cat == 'misunderstanding expiration labels'
+            else (
+                "After cooking a large batch of pasta, an individual realized they didn't have enough sauce."
+                + (" resulting in wasted food." if num > 1 else ".")
+                if cat == 'pasta_rice etc' and waste_cat == 'cooking too much'
+                else
+            )
+        )
+    )
+    
+    print(json.dumps({"id":1000 + _,"food_at_risk":food_at_risk, "food category":cat,"scenario":scenario}))

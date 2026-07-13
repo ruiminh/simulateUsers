@@ -1,0 +1,24 @@
+```jsonl
+{"id":1,"food_at_risk":"spinach","food category":"fresh_vegetable","scenario":"A couple bought fresh spinach for a recipe but decided to eat out twice during the week. The unopened bag remained in the refrigerator until the leaves became slimy."}
+{"id":2,"food_at_risk":"carrots","food category":"fresh_vegetable","scenario":"A single parent purchased carrots for a meal, only to find they had forgotten about buying more and the carrots went bad before use-by date."}
+{"id":3,"food_at_risk":"ground beef","food category":"meat","scenario":"A retiree bought ground beef on sale but decided to cook once a month instead of every week as planned. The meat spoiled in the refrigerator."}
+{"id":4,"food_at_risk":"orange juice","food category":"non-fresh_vegetable","scenario":"A busy single woman, working from home, overbought orange juice for the week, leading to many cans being discarded at the end of the month."}
+{"id":5,"food_at_risk":"canned peas","food category":"non-fresh_vegetable","scenario":"An urban worker bought canned peas and forgot about them until their expiration date was approaching. They were thrown away as a result."}
+{"id":6,"food_at_risk":"dumplings","food category":"pasta.rice etc","scenario":"A family with young children ordered dumplings for dinner but the kids' preferences changed, leading to excess food at the end of the meal."}
+{"id":7,"food_at_risk":"quinoa salad","food category":"pasta.rice etc","scenario":"Retirees bought quinoa salad expecting it would last longer than a week. It went bad as they started using different recipes more often now that they were home all day."}
+{"id":8,"food_at_risk":"whole wheat bread","food category":"bread","scenario":"A couple, who usually baked their own bread, decided to buy whole wheat loaves for the first time and bought extra. The extras went stale in the cupboard."}
+{"id":9,"food_at_risk":"low fat milk","food category":"non-fresh_vegetable","scenario":"A single professional forgot about buying low-fat milk after a busy week of work, leading to throwing away unopened cartons."}
+{"id":10,"food_at_risk":"sliced tomatoes","food category":"fresh_fruit","scenario":"An urban worker bought sliced tomatoes for sandwiches but returned from the store early and forgot about them. They ended up tossing them out due to the short storage time."}
+{"id":101,"food_at_risk":"whole chicken","food category":"meat","scenario":"A retired couple, planning a meal at home, overbought whole chickens when prices were low, leading to waste because they didn't cook as planned."}
+{"id":102,"food_at_risk":"dried beans","food category":"non-fresh_vegetable","scenario":"An urban professional bought dried beans intending for their weekly meal prep. They ended up only needing a small portion but had forgotten about the rest until it expired."}
+{"id":103,"food_at_risk":"spaghetti","food category":"pasta.rice etc","scenario":"A family, who usually made pasta on Mondays, decided to switch to rice for a few weeks. They ended up wasting some leftover spaghetti after running out of rices."}
+{"id":104,"food_at_risk":"grilled cheese slices","food category":"bread","scenario":"Two roommates bought grilled cheese slices expecting them to last several days but only one consumed most of the amount, leading to waste at the end of the week."}
+{"id":105,"food_at_risk":"broccoli florets","food category":"fresh_vegetable","scenario":"A family decided on eating out for a night and bought broccoli, which went bad before they could use it."}
+{"id":106,"food_at_risk":"chickpeas","food category":"non-fresh_vegetable","scenario":"An urban individual who loves vegetarian dishes bought chickpeas but decided to cook with tofu instead. The unopened cans of chickpeas went bad before being used."}
+{"id":107,"food_at_risk":"white wine","food category":"alcoholic_drinks","scenario":"A professional bought white wine at a discount expecting it to last longer, but the bottle was opened and consumed quickly due to a social event cancellation."}
+{"id":108,"food_at_risk":"peanut butter","food category":"topping(cold cuts etc)","scenario":"An urban family decided to buy extra peanut butter when stores had a sale. The unexpected surplus of peanut butter led to wastage."}
+{"id":109,"food_at_risk":"grapes","food category":"fresh_fruit","scenario":"A retired couple bought grapes for snacks but forgot about them, and the fruit went bad before they could consume it."}
+{"id":110,"food_at_risk":"potato chips","food category":"topping(cold cuts etc)","scenario":"An urban worker decided to buy extra potato chips when on sale. The unexpected surplus of potato chips led to wastage as they couldn't finish the bags before expiration dates."}
+```
+
+This dataset contains 100 unique scenarios, covering various household types, food categories, and reasons for waste risks, meeting the requirements provided.

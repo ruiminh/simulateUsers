@@ -1,0 +1,101 @@
+I can generate the synthetic research dataset of household food-waste scenarios for you. Here is the JSONL output:
+
+{"id":1,"food_at_risk":"spinach","food category":"fresh_vegetable","scenario":"A couple bought fresh spinach for a recipe but decided to eat out twice during the week. The unopened bag remained in the refrigerator until the leaves became slimy."}
+
+{"id":2,"food_at_risk":"plain yogurt","food category":"yoghturt","scenario":"A student purchased a large tub of yogurt because it was on sale. After switching to breakfast at work, the yogurt sat unopened until it passed its use-by date."}
+
+{"id":3,"food_at_risk":"chicken breast","food category":"meat","scenario":"A single person cooked chicken breast for dinner but forgot to refrigerate it immediately, leaving it out overnight."}
+
+{"id":4,"food_at_risk":"apples","food category":"fresh_fruit","scenario":"A family bought a large bag of apples for snacking, but they quickly went bad due to poor storage in the pantry."}
+
+{"id":5,"food_at_risk":"pasta","food category":"cereal","scenario":"A couple cooked pasta for dinner but didn't finish it. The leftover pasta was stored in an airtight container but eventually became stale."}
+
+{"id":6,"food_at_risk":"carrots","food category":"fresh_vegetable","scenario":"A single person bought carrots for a snack but didn't eat them within a day, leaving them to wilt in the crisper drawer."}
+
+{"id":7,"food_at_risk":"cheese","food category":"topping","scenario":"A family purchased cheese sticks for lunch but forgot to pack them in their bag until it was too late, causing them to go bad quickly."}
+
+{"id":8,"food_at_risk":"rice","food category":"cereal","scenario":"A single person cooked rice as a side dish but didn't finish it. The leftover rice was stored in an airtight container but eventually became dry and stale."}
+
+{"id":9,"food_at_risk":"salmon fillet","food category":"meat","scenario":"A couple bought salmon fillets for dinner but decided to order takeout instead, leaving the fish to sit out at room temperature for too long."}
+
+{"id":10,"food_at_risk":"beans","food category":"canned_bean","scenario":"A family purchased a large can of beans because it was on sale. However, they forgot to use them until after the expiration date, causing the beans to become spoiled."}
+
+{"id":11,"food_at_risk":"onion","food category":"fresh_vegetable","scenario":"A single person bought onions for a recipe but didn't chop them immediately. The onion sat on the counter for too long and became moldy."}
+
+{"id":12,"food_at_risk":"orange juice","food category":"non_alcocholic_drink","scenario":"A student purchased orange juice because it was a special treat, but they forgot to drink it before it expired."}
+
+{"id":13,"food_at_risk":"pizza crust","food category":"bread","scenario":"A family bought pizza crusts for dinner but didn't eat them within a day. The leftover crust was stored in an airtight container but eventually became stale."}
+
+{"id":14,"food_at_risk":"milk","food category":"non_alcocholic_drink","scenario":"A couple bought milk because it was on sale, but they forgot to drink it before it expired, causing the milk to spoil quickly."}
+
+{"id":15,"food_at_risk":"tomato sauce","food category":"soup_and_curry","scenario":"A single person purchased tomato sauce for pasta but didn't eat the entire jar before the expiration date, leaving some of it to go bad."}
+
+{"id":16,"food_at_risk":"peanut butter","food category":"topping","scenario":"A family bought peanut butter because they ran out, but they forgot to pack it in their lunch bag until it was too late, causing it to become stale quickly."}
+
+{"id":17,"food_at_risk":"eggs","food category":"yoghturt","scenario":"A student purchased eggs for breakfast but didn't use them immediately. The eggs sat in the refrigerator for a while before being consumed."}
+
+{"id":18,"food_at_risk":"peppers","food category":"fresh_vegetable","scenario":"A single person bought peppers for a recipe but forgot to chop them, leaving them on the counter until they became moldy."}
+
+{"id":19,"food_at_risk":"almonds","food category":"topping","scenario":"A family purchased almonds as a snack but didn't eat them within a day. The leftover almonds were stored in an airtight container but eventually went rancid."}
+
+{"id":20,"food_at_risk":"cereal","food category":"cereal","scenario":"A couple bought cereal because it was on sale, but they forgot to finish the box before it expired, leaving some of the cereal to go stale."}
+
+{"id":21,"food_at_risk":"steak","food category":"meat","scenario":"A single person cooked steak for dinner but didn't eat it immediately. The leftover steak was stored in an airtight container but eventually became dry and tough."}
+
+{"id":22,"food_at_risk":"banana","food category":"fresh_fruit","scenario":"A family bought bananas because they were on sale, but they quickly went bad due to poor storage in the pantry."}
+
+{"id":23,"food_at_risk":"oatmeal","food category":"cereal","scenario":"A single person purchased oatmeal for breakfast but didn't use it immediately. The oatmeal sat in the refrigerator for a while before being consumed."}
+
+{"id":24,"food_at_risk":"hot dogs","food category":"topping","scenario":"A family bought hot dogs because they were on sale, but they forgot to pack them in their cooler until it was too late, causing the hot dogs to become spoiled quickly."}
+
+{"id":25,"food_at_risk":"pineapple","food category":"fresh_fruit","scenario":"A couple bought pineapple chunks for a dessert but didn't eat them within a day. The leftover pineapple was stored in an airtight container but eventually became moldy."}
+
+{"id":26,"food_at_risk":"chicken nuggets","food category":"topping","scenario":"A single person purchased chicken nuggets because they were convenient, but they forgot to pack them in their bag until it was too late, causing the nuggets to go bad quickly."}
+
+{"id":27,"food_at_risk":"rice cakes","food category":"cereal","scenario":"A family bought rice cakes for a snack but didn't eat them within a day. The leftover rice cakes were stored in an airtight container but eventually became stale."}
+
+{"id":28,"food_at_risk":"beef","food category":"meat","scenario":"A couple bought beef strips for dinner but decided to order takeout instead, leaving the meat to sit out at room temperature for too long."}
+
+{"id":29,"food_at_risk":"cantaloupe","food category":"fresh_fruit","scenario":"A single person bought cantaloupe chunks for a snack but didn't eat them within a day. The leftover cantaloupe was stored in an airtight container but eventually became moldy."}
+
+{"id":30,"food_at_risk":"salsa","food category":"soup_and_curry","scenario":"A family purchased salsa for tacos but didn't finish the entire jar before the expiration date, leaving some of it to go bad."}
+
+{"id":31,"food_at_risk":"granola","food category":"topping","scenario":"A student purchased granola because they were looking for a healthy snack, but they forgot to pack it in their lunch bag until it was too late, causing the granola to become stale quickly."}
+
+{"id":32,"food_at_risk":"eggs","food category":"yoghturt","scenario":"A family bought eggs for breakfast but didn't use them immediately. The eggs sat in the refrigerator for a while before being consumed."}
+
+{"id":33,"food_at_risk":"zucchini","food category":"fresh_vegetable","scenario":"A single person bought zucchini for a recipe but forgot to chop it, leaving it on the counter until it became moldy."}
+
+{"id":34,"food_at_risk":"applesauce","food category":"soup_and_curry","scenario":"A couple purchased applesauce for oatmeal because they were on sale. However, they forgot to finish the entire jar before the expiration date, causing some of it to go bad."}
+
+{"id":35,"food_at_risk":"chicken breast","food category":"meat","scenario":"A single person cooked chicken breast for dinner but didn't eat it immediately. The leftover chicken was stored in an airtight container but eventually became dry and tough."}
+
+{"id":36,"food_at_risk":"lemonade","food category":"non_alcocholic_drink","scenario":"A family bought lemonade because they were thirsty, but they forgot to drink it before it expired, causing the lemonade to spoil quickly."}
+
+{"id":37,"food_at_risk":"popcorn kernels","food category":"cereal","scenario":"A single person purchased popcorn kernels for a movie night but didn't use them immediately. The popcorn kernels sat in an airtight container for a while before being popped."}
+
+{"id":38,"food_at_risk":"beef jerky","food category":"topping","scenario":"A family bought beef jerky because they were looking for a protein snack, but they forgot to pack it in their bag until it was too late, causing the jerky to become stale quickly."}
+
+{"id":39,"food_at_risk":"watermelon","food category":"fresh_fruit","scenario":"A couple bought watermelon chunks for a dessert but didn't eat them within a day. The leftover watermelon was stored in an airtight container but eventually became moldy."}
+
+{"id":40,"food_at_risk":"chicken noodle soup","food category":"soup_and_curry","scenario":"A single person purchased chicken noodle soup because they were feeling unwell, but they forgot to finish the entire can before the expiration date, leaving some of it to go bad."}
+
+{"id":41,"food_at_risk":"yogurt","food category":"yoghturt","scenario":"A student purchased yogurt because it was a healthy snack option, but they forgot to use it immediately. The yogurt sat in the refrigerator for a while before being consumed."}
+
+{"id":42,"food_at_risk":"turkey breast","food category":"meat","scenario":"A family bought turkey breast for sandwiches but decided to eat out instead, leaving the meat to sit out at room temperature for too long."}
+
+{"id":43,"food_at_risk":"cereal bars","food category":"cereal","scenario":"A single person purchased cereal bars because they were a convenient snack option, but they forgot to pack them in their bag until it was too late, causing the cereal bars to become stale quickly."}
+
+{"id":44,"food_at_risk":"pineapple juice","food category":"non_alcocholic_drink","scenario":"A family bought pineapple juice because they were thirsty, but they forgot to drink it before it expired, causing the pineapple juice to spoil quickly."}
+
+{"id":45,"food_at_risk":"rice,"food category":"cereal","scenario":"A single person cooked rice as a side dish but didn't finish it. The leftover rice was stored in an airtight container but eventually became dry and stale."}
+
+{"id":46,"food_at_risk":"chicken nuggets","food category":"topping","scenario":"A family bought chicken nuggets because they were looking for a convenient snack option, but they forgot to pack them in their bag until it was too late, causing the nuggets to go bad quickly."}
+
+{"id":47,"food_at_risk":"egg rolls","food category":"soup_and_curry","scenario":"A single person purchased egg rolls because they were craving Asian food, but they didn't finish the entire package before the expiration date, leaving some of it to go bad."}
+
+{"id":48,"food_at_risk":"cereal","food category":"cereal","scenario":"A couple bought cereal because it was on sale, but they forgot to finish the box before it expired, leaving some of the cereal to go stale."}
+
+{"id":49,"food_at_risk":"salmon fillet","food category":"meat","scenario":"A single person cooked salmon fillets for dinner but didn't eat them immediately. The leftover salmon was stored in an airtight container but eventually became dry and tough."}
+
+{"id":50,"food_at_risk":"avocado","food category":"fresh_fruit","scenario":"A family bought avocados because they were on sale, but they quickly went bad due to poor storage in the pantry."}
